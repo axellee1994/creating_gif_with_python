@@ -8,7 +8,6 @@
 *   [**Feature 1: e.g., Generates animated GIFs from a series of input images (PNG, JPG, etc.).**]
 *   [**Feature 2: e.g., Optimizes generated GIFs using Gifsicle for smaller file sizes.**]
 *   [**Feature 3: e.g., Simple script-based execution.**]
-*   [**Add more specific features if applicable.**]
 
 ## Installation Instructions
 
